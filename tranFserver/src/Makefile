@@ -23,6 +23,7 @@ $(TARGET) : $(OBJS)
 
 clean:
 	$(RM) *.o $(TARGET)
+	$(RM) tags
 
 tag:
 	ctags -R *
