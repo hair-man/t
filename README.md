@@ -3,8 +3,12 @@
 something to surf the Internet
 
 
-thx [klib](https://github.com/attractivechaos/klib) 
-thx [RingBuffer](https://github.com/ylpr00t/RingBuffer)
-thx [zlog](https://github.com/HardySimpson/zlog)
-thx openssl
-..
+use [klib](https://github.com/attractivechaos/klib) 
+
+use [RingBuffer](https://github.com/ylpr00t/RingBuffer)
+
+use [zlog](https://github.com/HardySimpson/zlog)
+
+use [openssl](https://github.com/openssl/openssl)
+
+...
